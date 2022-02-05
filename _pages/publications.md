@@ -14,10 +14,10 @@ author_profile: true
 
 ## Projects
 
-### Project 7 - Public Transportation Optimization Using Continuum Approximation, September 2021 - Present
+### Project 7 - Public Transportation Optimization Using Continuum Approximation, September 2021 - December 2021
 - The computational cost is outstripping the current computer capabilities because of the massive amount of discrete public transport data. Consequently, the Berkeley team introduced the continuum approximation (CA) approach to approximate the public transportation system by employing a continuous function to approximate the public transportation system.
 
-### Project 6 – Short-Term Traffic Forecasting with Deep Adaptation Network, May 2021 - Present
+### Project 6 – Short-Term Traffic Forecasting with Deep Adaptation Network, May 2021 - January 2022
 - Deep adaptation network ([DAN](https://arxiv.org/abs/1502.02791)) is applied for traffic flow prediction. The aim is to adopt the maximum mean discrepancy into the deep learning method. It is expected that our model can be trained to adapt two datasets, the feature domain of which are different, and do the prediction upon both datasets.
 - The aim is to predict future traffic flow under the circumstance that the sensor has bad (low-quality) data or is lack of an amount of data.
 
