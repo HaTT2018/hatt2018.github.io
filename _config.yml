@@ -81,12 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaihang Zhang <br> (张开航)"
+  name             : "Kaihang Zhang <br> 张开航"
   avatar           : "kaihangzhang.png"
   bio              : |
-    Civil Engineering (Transportation) <br> 
-    <br>
-    University of California at Berkeley <br>
+    Institute of Transportation Studies <br>
+    University of California <br>
     <br>
   location         : "Berkeley, CA, USA"
   employer         :
