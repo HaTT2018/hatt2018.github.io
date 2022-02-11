@@ -14,7 +14,7 @@ Education
 ======
 - (Upcoming) Ph.D. in Traffic and Transportation Engineering, [the University of Hong Kong](https://www.hku.hk/), HKSAR of PRC, 2022 - 2026. Supervisors: [Dr. J.T. KE](http://www.civil.hku.hk/pp-kejt.html) (Primary) and [Prof. S.C WONG](http://www.civil.hku.hk/pp-wongsc.html) (Co-Supervisor).
 
-- M.S. in Transportation Engineering, [University of California at Berkeley](https://www.berkeley.edu/), USA, 2021 - 2022 (Expected). GPA: 3.925/4.0 (Fall 2021).
+- M.S. in Transportation Engineering, [University of California, Berkeley](https://www.berkeley.edu/), USA, 2021 - 2022 (Expected). GPA: 3.925/4.0 (Fall 2021).
 
 - B.Eng.$^*$ with $Outstanding\ Graduate\ Award$ in Civil Engineering, [Zhejiang University](http://www.zju.edu.cn/english/), China, 2017 - 2021. GPA: 3.90/4.0.
 
