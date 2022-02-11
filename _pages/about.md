@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kaihang Zhang is currently a master student studying transportation engineering at the University of California, Berkeley. He is a self-motivated student who is passionate in the intelligent transportation systems. To be specific, his research interests include short-term traffic forecasting using transfer learning and public transportation systems. On top of those, he also masters coding using Python and MATLAB. He has rich experience in implementing deep learning models using PyTorch, Keras, Tensorflow and etc. He also has extensive experience in traffic modeling using VISSIM-COM interface through Python.<br>
+Kaihang Zhang is currently a master student studying transportation engineering at the University of California, Berkeley. He is a self-motivated student who is passionate in the intelligent transportation systems. To be specific, his research interests include short-term traffic forecasting using transfer learning and public transportation systems. On top of those, he also masters coding using Python and MATLAB. He has rich experience in implementing deep learning models using PyTorch, Keras, Tensorflow and etc. He also has extensive experience in traffic simulation using VISSIM-COM interface through Python.<br>
 
 Education
 ======
